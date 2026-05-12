@@ -88,8 +88,6 @@ Multi-agent medical assistant built with locally deployed LLMs. Ongoing project.
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 ![](https://img.shields.io/badge/Repos-10-blue?style=flat-square)
 ![](https://img.shields.io/badge/Focus-Computer%20Vision%20%7C%20LLMs-purple?style=flat-square)
 ![](https://img.shields.io/badge/Stack-PyTorch%20%7C%20OpenCV%20%7C%20CrewAI-orange?style=flat-square)
