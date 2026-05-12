@@ -40,7 +40,6 @@
 **Agents & LLMs**
 
 ![Ollama](https://img.shields.io/badge/Ollama-1A1A1A?style=flat-square)
-![CrewAI](https://img.shields.io/badge/CrewAI-6A0DAD?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 
 **Tools & Infra**
