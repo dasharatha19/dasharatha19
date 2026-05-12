@@ -15,7 +15,7 @@
 - 🎓 B.E. in Electronics & Communication Engineering — Siddaganga Institute of Technology
 - 💡 Passionate about **Computer Vision**, **LLM-powered agents**, and **end-to-end ML systems**
 - 🌱 Currently deepening expertise in **multi-agent frameworks** and **production-grade ML deployment**
-- 📍 Based in Tumakuru / Bangalore, Karnataka, India
+- 📍 Based in Bangalore, Karnataka, India
 - 📫 Reach me at **dasharatha9889@gmail.com**
 
 ---
