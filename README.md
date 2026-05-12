@@ -80,7 +80,7 @@ Multi-agent medical assistant built with locally deployed LLMs. Ongoing project.
 
 | Role | Company | Impact |
 |------|---------|--------|
-| AI/ML Engineer Intern | Sujanix Pvt. Ltd. (2026–Present) | CLIP + UMAP + HDBSCAN data curation pipeline; improved training data quality beyond 89% baseline |
+| AI/ML Engineer Intern | Sujanix Pvt. Ltd. (2026–Present) | Contributed to increase in training accuracy over an 89% baseline by through a custom CLIP + UMAP + HDBSCAN curation pipeline |
 | AI/ML Intern | Gloitel Consulting (2025) | CrewAI multi-agent CRM automation; 30% efficiency gain; WhatsApp Business API with 100% stability |
 | CV Intern | CypherTek Solutions (2025) | Custom CNN sleep detection; full pipeline from data collection to deployment |
 
