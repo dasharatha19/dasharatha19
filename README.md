@@ -9,18 +9,55 @@
 
 ---
 
-###  About Me
+### About Me
 
--  Currently an **AI/ML Engineer Intern at Sujanix** — building CLIP + UMAP + HDBSCAN pipelines for data curation and model improvement
--  B.E. in Electronics & Communication Engineering — Siddaganga Institute of Technology
--  Passionate about **Computer Vision**, **LLM-powered agents**, and **end-to-end ML systems**
--  Currently deepening expertise in **multi-agent frameworks** and **production-grade ML deployment**
--  Based in Bangalore, Karnataka, India
--  Reach me at **dasharatha9889@gmail.com**
+- Currently an **AI/ML Engineer Intern at Sujanix** — building CLIP + UMAP + HDBSCAN pipelines for data curation and model improvement
+- B.E. in Electronics & Communication Engineering — Siddaganga Institute of Technology
+- Passionate about **Computer Vision**, **LLM-powered agents**, and **end-to-end ML systems**
+- Currently deepening expertise in **multi-agent frameworks** and **production-grade ML deployment**
+- Based in Bangalore, Karnataka, India
+- Reach me at **dasharatha9889@gmail.com**
 
 ---
 
-###  Tech Stack
+### Experience Highlights
+
+| Role | Company | Impact |
+|------|---------|--------|
+| AI/ML Engineer Intern | Sujanix Pvt. Ltd. (Mar 2026 – Present) | Contributed to increase in training accuracy over an 89% baseline by through a custom CLIP + UMAP + HDBSCAN curation pipeline |
+| AI/ML Intern | Gloitel Consulting (Sep 2025 - Dec 2025) | CrewAI multi-agent CRM automation; 30% efficiency gain; WhatsApp Business API with 100% stability |
+| CV Intern | CypherTek Solutions (Mar 2025 - Jun 2025) | Custom CNN sleep detection; full pipeline from data collection to deployment |
+
+---
+
+### Featured Projects
+
+#### 🩺 [Non-Invasive Diabetes Detection via PPG Signals](https://github.com/dasharatha19/Non-invasive-detection-of-diabetic-condition-using-photoplethesmography-ppg-)
+> **90% accuracy** | Python · Raspberry Pi · MAX30102 · LightGBM · ANN · Flask
+
+Built a real-time non-invasive blood glucose screening system using photoplethysmography (PPG) signals from a MAX30102 sensor on Raspberry Pi. Trained an ensemble stacking classifier (SVM + Random Forest + Gradient Boosting) and deployed a live Flask dashboard with ThingSpeak IoT cloud integration.
+
+**Key results:** 90% classification accuracy · Real-time inference · Cloud data logging via ThingSpeak
+
+---
+
+#### 😴 [Sleep Monitoring System — Driver Safety](https://github.com/dasharatha19/sleep-monitoring-system-internship)
+> **Computer Vision Pipeline** | PyTorch · OpenCV · HRNET · Tiny YOLOv2
+
+Designed a modular multi-model pipeline for driver drowsiness detection: face detection → eye tracking → head-pose estimation → binary sleep classification via custom CNN. Built for scalable deployment in driver safety systems.
+
+**Stack:** PyTorch · OpenCV · NumPy · Tiny YOLOv2 · HRNET
+
+---
+
+#### 🤖 [Medical Assistant Agent](https://github.com/dasharatha19/new_medicaal_assistant)
+> **LLM-powered agentic system** *(in progress)*
+
+Multi-agent medical assistant built with locally deployed LLMs. Ongoing project.
+
+---
+
+### Tech Stack
 
 **Languages**
 
@@ -49,51 +86,15 @@
 
 ---
 
-###  Featured Projects
-
-#### 🩺 [Non-Invasive Diabetes Detection via PPG Signals](https://github.com/dasharatha19/Non-invasive-detection-of-diabetic-condition-using-photoplethesmography-ppg-)
-> **90% accuracy** | Python · Raspberry Pi · MAX30102 · LightGBM · ANN · Flask
-
-Built a real-time non-invasive blood glucose screening system using photoplethysmography (PPG) signals from a MAX30102 sensor on Raspberry Pi. Trained an ensemble stacking classifier (SVM + Random Forest + Gradient Boosting) and deployed a live Flask dashboard with ThingSpeak IoT cloud integration.
-
-**Key results:** 90% classification accuracy · Real-time inference · Cloud data logging via ThingSpeak
-
----
-
-####  [Sleep Monitoring System — Driver Safety](https://github.com/dasharatha19/sleep-monitoring-system-internship)
-> **Computer Vision Pipeline** | PyTorch · OpenCV · HRNET · Tiny YOLOv2
-
-Designed a modular multi-model pipeline for driver drowsiness detection: face detection → eye tracking → head-pose estimation → binary sleep classification via custom CNN. Built for scalable deployment in driver safety systems.
-
-**Stack:** PyTorch · OpenCV · NumPy · Tiny YOLOv2 · HRNET
-
----
-
-#### 🤖 [Medical Assistant Agent](https://github.com/dasharatha19/new_medicaal_assistant)
-> **LLM-powered agentic system** *(in progress)*
-
-Multi-agent medical assistant built with locally deployed LLMs. Ongoing project.
-
----
-
-###  Experience Highlights
-
-| Role | Company | Impact |
-|------|---------|--------|
-| AI/ML Engineer Intern | Sujanix Pvt. Ltd. (Mar 2026 – Present) | Contributed to increase in training accuracy over an 89% baseline by through a custom CLIP + UMAP + HDBSCAN curation pipeline |
-| AI/ML Intern | Gloitel Consulting (Sep 2025 - Dec 2025) | CrewAI multi-agent CRM automation; 30% efficiency gain; WhatsApp Business API with 100% stability |
-| CV Intern | CypherTek Solutions (Mar 2025 - Jun 2025) | Custom CNN sleep detection; full pipeline from data collection to deployment |
-
----
-
 ### GitHub Stats
 
 ![](https://img.shields.io/badge/Repos-10-blue?style=flat-square)
 ![](https://img.shields.io/badge/Focus-Computer%20Vision%20%7C%20LLMs-purple?style=flat-square)
 ![](https://img.shields.io/badge/Stack-PyTorch%20%7C%20OpenCV%20%7C%20CrewAI-orange?style=flat-square)
+
 ---
 
-###  Currently
+### Currently
 
 - 🔨 Building production ML pipelines at Sujanix
 - 📚 Studying: Diffusion models, RAG architectures, MLOps with Docker/FastAPI
