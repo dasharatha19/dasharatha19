@@ -88,10 +88,11 @@ Multi-agent medical assistant built with locally deployed LLMs. Ongoing project.
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dasharatha19&show_icons=true&theme=dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasharatha19&layout=compact&theme=dark&hide_border=true" height="160"/>
-</p>
+### 📊 GitHub Stats
+
+![](https://img.shields.io/badge/Repos-10-blue?style=flat-square)
+![](https://img.shields.io/badge/Focus-Computer%20Vision%20%7C%20LLMs-purple?style=flat-square)
+![](https://img.shields.io/badge/Stack-PyTorch%20%7C%20OpenCV%20%7C%20CrewAI-orange?style=flat-square)
 ---
 
 ### 🎯 Currently
