@@ -89,10 +89,9 @@ Multi-agent medical assistant built with locally deployed LLMs. Ongoing project.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dasharatha19&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasharatha19&layout=compact&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dasharatha19&show_icons=true&theme=dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasharatha19&layout=compact&theme=dark&hide_border=true" height="160"/>
 </p>
-
 ---
 
 ### 🎯 Currently
