@@ -9,18 +9,18 @@
 
 ---
 
-### 🧠 About Me
+###  About Me
 
-- 🔭 Currently an **AI/ML Engineer Intern at Sujanix** — building CLIP + UMAP + HDBSCAN pipelines for data curation and model improvement
-- 🎓 B.E. in Electronics & Communication Engineering — Siddaganga Institute of Technology
-- 💡 Passionate about **Computer Vision**, **LLM-powered agents**, and **end-to-end ML systems**
-- 🌱 Currently deepening expertise in **multi-agent frameworks** and **production-grade ML deployment**
-- 📍 Based in Bangalore, Karnataka, India
-- 📫 Reach me at **dasharatha9889@gmail.com**
+-  Currently an **AI/ML Engineer Intern at Sujanix** — building CLIP + UMAP + HDBSCAN pipelines for data curation and model improvement
+-  B.E. in Electronics & Communication Engineering — Siddaganga Institute of Technology
+-  Passionate about **Computer Vision**, **LLM-powered agents**, and **end-to-end ML systems**
+-  Currently deepening expertise in **multi-agent frameworks** and **production-grade ML deployment**
+-  Based in Bangalore, Karnataka, India
+-  Reach me at **dasharatha9889@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages**
 
@@ -49,7 +49,7 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 #### 🩺 [Non-Invasive Diabetes Detection via PPG Signals](https://github.com/dasharatha19/Non-invasive-detection-of-diabetic-condition-using-photoplethesmography-ppg-)
 > **90% accuracy** | Python · Raspberry Pi · MAX30102 · LightGBM · ANN · Flask
@@ -60,7 +60,7 @@ Built a real-time non-invasive blood glucose screening system using photoplethys
 
 ---
 
-#### 😴 [Sleep Monitoring System — Driver Safety](https://github.com/dasharatha19/sleep-monitoring-system-internship)
+####  [Sleep Monitoring System — Driver Safety](https://github.com/dasharatha19/sleep-monitoring-system-internship)
 > **Computer Vision Pipeline** | PyTorch · OpenCV · HRNET · Tiny YOLOv2
 
 Designed a modular multi-model pipeline for driver drowsiness detection: face detection → eye tracking → head-pose estimation → binary sleep classification via custom CNN. Built for scalable deployment in driver safety systems.
@@ -76,7 +76,7 @@ Multi-agent medical assistant built with locally deployed LLMs. Ongoing project.
 
 ---
 
-### 💼 Experience Highlights
+###  Experience Highlights
 
 | Role | Company | Impact |
 |------|---------|--------|
@@ -86,14 +86,14 @@ Multi-agent medical assistant built with locally deployed LLMs. Ongoing project.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![](https://img.shields.io/badge/Repos-10-blue?style=flat-square)
 ![](https://img.shields.io/badge/Focus-Computer%20Vision%20%7C%20LLMs-purple?style=flat-square)
 ![](https://img.shields.io/badge/Stack-PyTorch%20%7C%20OpenCV%20%7C%20CrewAI-orange?style=flat-square)
 ---
 
-### 🎯 Currently
+###  Currently
 
 - 🔨 Building production ML pipelines at Sujanix
 - 📚 Studying: Diffusion models, RAG architectures, MLOps with Docker/FastAPI
