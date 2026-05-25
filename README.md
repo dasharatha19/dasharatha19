@@ -24,7 +24,7 @@
 
 | Role | Company | Impact |
 |------|---------|--------|
-| AI/ML Engineer Intern | Sujanix Pvt. Ltd. (Mar 2026 – Present) | Contributed to increase in training accuracy over an 89% baseline by through a custom CLIP + UMAP + HDBSCAN curation pipeline |
+| AI/ML Engineer Intern | Sujanix Pvt. Ltd. (Mar 2026 – Present) | Spoof detection model (MobileNetV2 + FFT + SRM + CBAM) on real-world electric meter data — multi-branch forensic architecture with class imbalance handling|
 | AI/ML Intern | Gloitel Consulting (Sep 2025 - Dec 2025) | CrewAI multi-agent CRM automation; 30% efficiency gain; WhatsApp Business API with 100% stability |
 | CV Intern | CypherTek Solutions (Mar 2025 - Jun 2025) | Custom CNN sleep detection; full pipeline from data collection to deployment |
 
