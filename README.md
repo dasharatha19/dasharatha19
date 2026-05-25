@@ -50,7 +50,7 @@ Designed a modular multi-model pipeline for driver drowsiness detection: face de
 
 ---
 
-#### 🤖 [Medical Assistant Agent]([https://github.com/dasharatha19/new_medicaal_assistant](https://github.com/dasharatha19/Medical_assist))
+#### 🤖 [Medical Assistant Agent](https://github.com/dasharatha19/new_medicaal_assistant](https://github.com/dasharatha19/Medical_assist)
 > **LLM-powered agentic system** *(in progress)*
 
 Multi-agent medical assistant built with locally deployed LLMs. Ongoing project.
