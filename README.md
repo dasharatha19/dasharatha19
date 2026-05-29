@@ -32,6 +32,14 @@
 
 ### Featured Projects
 
+#### 🤖 [Medical Assistant Agent](https://github.com/dasharatha19/Medical_assist)
+> **LLM-powered agentic system** *(in progress)*
+
+Architected a 4-node LangGraph state machine with conditional routing to fully automate the patient appointment booking workflow from NLP-based intake to slot reservation and 3-tier reminder scheduling.
+
+---
+
+
 #### 🩺 [Non-Invasive Diabetes Detection via PPG Signals](https://github.com/dasharatha19/Non-invasive-detection-of-diabetic-condition-using-photoplethesmography-ppg-)
 > **90% accuracy** | Python · Raspberry Pi · MAX30102 · LightGBM · ANN · Flask
 
@@ -50,12 +58,6 @@ Designed a modular multi-model pipeline for driver drowsiness detection: face de
 
 ---
 
-#### 🤖 [Medical Assistant Agent](https://github.com/dasharatha19/Medical_assist)
-> **LLM-powered agentic system** *(in progress)*
-
-Multi-agent medical assistant built with locally deployed LLMs. Ongoing project.
-
----
 
 ### Tech Stack
 
