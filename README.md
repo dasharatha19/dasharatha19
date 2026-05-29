@@ -36,6 +36,7 @@
 > **LLM-powered agentic system** *(in progress)*
 
 Architected a 4-node LangGraph state machine with conditional routing to fully automate the patient appointment booking workflow from NLP-based intake to slot reservation and 3-tier reminder scheduling.
+
 **Stack:** Python, LangGraph, Groq, Streamlit, Docker
 ---
 
