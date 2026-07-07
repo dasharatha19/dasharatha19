@@ -11,7 +11,7 @@
 
 ### About Me
 
-- Currently an **AI/ML Engineer Intern at Sujanix** — building CLIP + UMAP + HDBSCAN pipelines for data curation and model improvement
+- Currently an **AI/ML Engineer at Sujanix** — building CLIP + UMAP + HDBSCAN pipelines for data curation and model improvement
 - B.E. in Electronics & Communication Engineering — Siddaganga Institute of Technology
 - Passionate about **Computer Vision**, **LLM-powered agents**, and **end-to-end ML systems**
 - Currently deepening expertise in **multi-agent frameworks** and **production-grade ML deployment**
@@ -24,7 +24,7 @@
 
 | Role | Company | Impact |
 |------|---------|--------|
-| AI/ML Engineer Intern | Sujanix Pvt. Ltd. (Mar 2026 – Present) | Spoof detection model (MobileNetV2 + FFT + SRM + CBAM) on real-world electric meter data — multi-branch forensic architecture with class imbalance handling|
+| AI/ML Engineer | Sujanix Pvt. Ltd. (Mar 2026 – Present) | Spoof detection model (MobileNetV2 + FFT + SRM + CBAM) on real-world electric meter data — multi-branch forensic architecture with class imbalance handling|
 | AI/ML Intern | Gloitel Consulting (Sep 2025 - Dec 2025) | CrewAI multi-agent CRM automation; 30% efficiency gain; WhatsApp Business API with 100% stability |
 | CV Intern | CypherTek Solutions (Mar 2025 - Jun 2025) | Custom CNN sleep detection; full pipeline from data collection to deployment |
 
